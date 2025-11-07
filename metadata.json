@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Android Antivirus Scanner",
+  "description": "A web-based simulation of a real Android antivirus scanner application. It mimics the scanning process, displays results, and shows simulated AdMob advertisements for a realistic user experience.",
+  "requestFramePermissions": []
+}
